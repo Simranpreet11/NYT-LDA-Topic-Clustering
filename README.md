@@ -73,5 +73,3 @@ Steps taken to prepare the data for modeling:
   * Supporting data-driven editorial decisions
 
 ---
-
-Would you like me to now turn this into a **ready-to-use `README.md` file** and give you the download link?
